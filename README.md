@@ -4,8 +4,7 @@ Full Stack & Automation Developer | Building Scalable Infrastructure & AI-Driven
 ## Contact
 - Email: [raneck7@gmail.com](mailto:raneck7@gmail.com)
 - GitHub: [github.com/rankoo12](https://github.com/rankoo12)
-- Phone: 054-9255310
-
+- 
 ## About Me
 I am a Software Engineer specializing in backend systems, infrastructure tooling, and modern automation platforms. With around 4 years of hands-on industry experience, I am passionate about solving complex workflow problems by building robust, containerized, and scalable solutions. 
 
